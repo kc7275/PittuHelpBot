@@ -1,9 +1,8 @@
 # ============================================================
-#Group Manager Bot
-# Author: LearningBotsOfficial (https://github.com/LearningBotsOfficial) 
-# Support: https://t.me/LearningBotsCommunity
-# Channel: https://t.me/learning_bots
-# YouTube: https://youtube.com/@learning_bots
+#Group Manager Bot 
+# Support: https://t.me/fairy_x_hunter
+# Support: https://t.me/+8awAqWyaGD1hMmU1
+# Channel: https://youtube.com/pittu_support
 # License: Open-source (keep credits, no resale)
 # ============================================================
 
