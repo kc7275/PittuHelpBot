@@ -21,6 +21,6 @@ OWNER_ID = int(os.getenv("OWNER_ID", 0))
 BOT_USERNAME = os.getenv("BOT_USERNAME", "NomadeHelpBot")
 
 # Links and visuals
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/LearningBotsCommunity")
-UPDATE_CHANNEL = os.getenv("UPDATE_CHANNEL", "https://t.me/Learning_Bots")
-START_IMAGE = os.getenv("START_IMAGE", "https://files.catbox.moe/j2yhce.jpg")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+8awAqWyaGD1hMmU1")
+UPDATE_CHANNEL = os.getenv("UPDATE_CHANNEL", "https://t.me/pittu_support")
+START_IMAGE = os.getenv("START_IMAGE", "https://files.catbox.moe/fdl9ki.jpg")
