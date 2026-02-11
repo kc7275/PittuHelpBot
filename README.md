@@ -164,8 +164,6 @@ python3 main.py
 <a href="https://www.instagram.com/lonely_said?igsh=dWszeXA4eW0wdXhk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://t.me/+8awAqWyaGD1hMmU1"><img src="https://img.shields.io/badge/Telegram%20Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://t.me/team_spirit_network"><img src="https://img.shields.io/badge/Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://youtube.com/@learning_bots?si=aNUuRSfZD7na78GM"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</p>
 
 ---
 
@@ -188,9 +186,9 @@ please contact the author at [teamspiritofficial](https://t.me/+8awAqWyaGD1hMmU1
 
 ---
 
-**Support Group:** [@LearningBotsCommunity](https://t.me/LearningBotsCommunity)  
-**Update Channel:** [@learning_bots](https://t.me/learning_bots)  
-**YouTube:** [Learning Bots](https://youtube.com/@learning_bots)
+**Support Group:** [@fairy_x_hunter](https://t.me/fairy_x_hunter)  
+**Support Group:** [team_spitit_official](https://t.me/+8awAqWyaGD1hMmU1)   
+**Update Channel:** [@team_spirit_network](https://t.me/team_spirit_network)   
 
 
 <div align="center">
