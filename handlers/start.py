@@ -47,7 +47,7 @@ Highlights:
             ],
             [
                 InlineKeyboardButton("※ ŎŴɳēŔ ※", url=f"tg://user?id={OWNER_ID}"),
-                InlineKeyboardButton("Support 2", url="https://t.me/fairy_x_hunter"),
+                InlineKeyboardButton("⌂ Support 2 ⌂", url="https://t.me/fairy_x_hunter"),
                 
             ],
             [InlineKeyboardButton("📚 Help Commands 📚", callback_data="help")]
