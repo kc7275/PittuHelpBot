@@ -42,12 +42,12 @@ Highlights:
         buttons = InlineKeyboardMarkup([
             [InlineKeyboardButton("⚒️ Add to Group ⚒️", url=f"https://t.me/@Pittugrouphelp_bot?startgroup=true")],
             [
-                InlineKeyboardButton("⌂ Support 1 ⌂", url=SUPPORT_GROUP),
-                InlineKeyboardButton("⌂ Update ⌂", url=UPDATE_CHANNEL),
+                InlineKeyboardButton("⌂ Support ⌂", url=SUPPORT_GROUP),
+                InlineKeyboardButton("⌂ Update Channel ⌂", url=UPDATE_CHANNEL),
             ],
             [
                 InlineKeyboardButton("※ ŎŴɳēŔ ※", url=f"tg://user?id={OWNER_ID}"),
-                InlineKeyboardButton("⌂ Support 2 ⌂", url="https://t.me/fairy_x_hunter"),
+                InlineKeyboardButton("⌂ Support Channel ⌂", url="https://t.me/team_spirit_network"),
                 
             ],
             [InlineKeyboardButton("📚 Help Commands 📚", callback_data="help")]
