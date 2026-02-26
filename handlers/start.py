@@ -187,7 +187,7 @@ Example:
         try:
             text = """
 ╔══════════════════╗
-      ⚙️ Moderation System
+  ⚙️ Moderation System
 ╚══════════════════╝
 
 Manage your group easily with these tools:
