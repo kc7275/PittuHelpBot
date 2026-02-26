@@ -134,7 +134,7 @@ BOT_USERNAME=NomadeHelpBot
 
 # Links & Visuals
 SUPPORT_GROUP=https://t.me/LearningBotsCommunity
-UPDATE_CHANNEL=https://t.me/LearningBotsOfficial
+UPDATE_CHANNEL=https://t.me/Pittu_support
 START_IMAGE=https://files.catbox.moe/j2yhce.jpg
 
 ```
